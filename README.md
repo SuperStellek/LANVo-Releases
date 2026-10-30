@@ -8,4 +8,4 @@ This repository distributes installers and SHA-256 checksums only. Source code s
 
 LANVo checks this repository for updates at startup and asks before installing one.
 
-The first installer for this repository is being prepared.
+[Download the latest Windows installer](https://github.com/SuperStellek/LANVo-Releases/releases/latest/download/LANVo-Setup-win-x64.exe).
